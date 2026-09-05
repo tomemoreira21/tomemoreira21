@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student @ **Uminho**. I really enjoy writing code and turning ideas into reality.
 
-🔭 Currently doing a summer internship @ **LEONI**
+🔭 Summer Internship @ **LEONI** - 2026
 
 <div>
   <a href="mailto:tomemoreira3@gmail.com">
