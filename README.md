@@ -2,7 +2,13 @@
 
 I'm a Software Engineering student @ **Uminho**. I really enjoy writing code and turning ideas into reality.
 
+### 💼 Experience
+
 🔭 Summer Internship @ **LEONI** - 2026
+
+Developed a production monitoring dashboard using FastAPI, Python, and Vue.js, designed to visualize and analyze production data in a company-specific environment.
+
+<br> <br>
 
 <div>
   <a href="mailto:tomemoreira3@gmail.com">
