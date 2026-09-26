@@ -27,4 +27,16 @@ I'm a Software Engineering student @ **Uminho**. I really enjoy writing code and
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- 
+
+### 📂 Featured Projects
+
+| Project                             | Description                                                     | Technologies  |
+| ----------------------------------- | --------------------------------------------------------------- | ------------- |
+| 🏰 [Immutable Towers](https://github.com/tomemoreira21/uminho/tree/main/1st/semester1/Laborat%C3%B3rios%20de%20Inform%C3%A1tica%20I/projeto)         | Tower defense game based on functional programming              | Haskell       |
+| 🧩 [Board Game Solver](https://github.com/tomemoreira21/uminho/tree/main/1st/semester2/Laborat%C3%B3rios%20de%20Inform%C3%A1tica%20II/projeto)        | Command-line board game puzzle solver                           | C             |
+| ✈️ [Flight Management System](https://github.com/tomemoreira21/uminho/tree/main/1st/semester2/Laborat%C3%B3rios%20de%20Inform%C3%A1tica%20II/projeto) | Flight, airport, passenger and reservation data analysis system | C             |
+| 🌍 [DigiTrip](https://github.com/tomemoreira21/uminho/tree/main/2nd/semester1/Bases%20de%20Dados/projeto)                 | Relational database system for managing travel experiences      | MySQL, SQL    |
+| 🔍 [Packet Sniffer](https://github.com/tomemoreira21/uminho/tree/main/2nd/semester2/Redes%20de%20Computadores/trabalhos/TP2)           | Real-time network packet capture and analysis tool              | Python, Scapy |
+
+---
+
