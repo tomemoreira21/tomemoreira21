@@ -28,6 +28,8 @@ I'm a Software Engineering student @ **Uminho**. I really enjoy writing code and
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
 ### 📂 Featured Projects
 
 | Project                             | Description                                                     | Technologies  |
