@@ -45,6 +45,9 @@ Developed a production monitoring dashboard using FastAPI, Python, and Vue.js, d
 | ✈️ [Flight Management System](https://github.com/tomemoreira21/uminho/tree/main/2nd/semester1/Laborat%C3%B3rios%20de%20Inform%C3%A1tica%20III/projeto/trabalho-pratico) | Flight, airport, passenger and reservation data analysis system | C             |
 | 🌍 [DigiTrip](https://github.com/tomemoreira21/uminho/tree/main/2nd/semester1/Bases%20de%20Dados/projeto)                 | Relational database system for managing travel experiences      | MySQL, SQL    |
 | 🔍 [Packet Sniffer](https://github.com/tomemoreira21/uminho/tree/main/2nd/semester2/Redes%20de%20Computadores/trabalhos/TP2)           | Real-time network packet capture and analysis tool              | Python, Scapy |
+| 🏠 [Domus Control](https://github.com/tomemoreira21/uminho/tree/main/2nd/semester2/Programacao%20Orientada%20aos%20Objetos/projeto)                                                                                                                                                | Smart home automation system                                    | Java, Gradle             |
+| 🇪🇺 [European Commission Website](https://github.com/tomemoreira21/uminho/tree/main/2nd/semester2/Interface%20Pessoa-Maquina/projeto/european_comission)                                                                                                                                | Vue.js website using HTTP requests to retrieve and display data | Vue.js, Vite |
+| 🧵 [Multi-Runner Environment Orchestrator](https://github.com/tomemoreira21/uminho/tree/main/2nd/semester2/Sistemas%20Operativos/projeto)                                                                                                                        | Process scheduling and execution system using FIFOs and pipes   | C, Linux                 |
 
 ---
 
